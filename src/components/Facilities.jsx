@@ -27,9 +27,8 @@ const Facilities = () => {
     {
       id: 4,
       title: 'Café & Lounge',
-      subtitle: 'El tercer tiempo se vive mejor en nuestra cafetería.',
-      image:
-        'https://lh3.googleusercontent.com/aida-public/AB6AXuAS46cMj8lfJXHuiR1nnPQWTjSLTAoeMAszQufYBHgwuDVklJJg6F2ZacLIl0ZANF5dRtc-Ha31SWhv4Ry0pT_xF51hDz5ZUh8zCFeZDHUqrKLKF2Bb9aCWzAIZZzG8aaUF0ccc1Xzg-34bccZhnR2eT7ESOSU2EbrGZjol3iDmJ-B3e8Pr4De91p8A4XsjZfiI9QGaaZ9YCXDjYFBkUKzmhOJXaZg_3NiNQRlUhSgdWqIHx1OGoZw3pNV_a5v6regdZI5qETNLg',
+      subtitle: 'El cuarto set se vive mejor en nuestro bar terraza.',
+      image: '/padelbar.jpg',
     },
   ]
 
